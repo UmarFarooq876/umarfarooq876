@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Umar+Farooq;Web+Developer+%7C+React+%26+Next.js;Always+Learning+Backend+Development)](https://git.io/typing-svg)
 
-- 🔭 Working on **Web Development**
-- 🌱 Learning **Backend Development**
-- 💬 Ask me about **React.js**
-- 📫 Reach me at **imumar837@gmail.com**
+---
+
+<h1 align="center">Hi, I'm Umar Farooq! Full Stack Developer</h1>
+
+- 🔭 Currently building projects with **Next.js & React.js**  
+- 🌱 Expanding skills in **Backend Development (Node.js, Supabase, SQL, MongoDB)**  
+- 💬 Open to talk about **Web Development & Frontend Frameworks**  
+- 📫 Reach me at: **imumar837@gmail.com**  
+
 
 ---
 
@@ -23,11 +29,16 @@
 ---
 
 ### 🛠️ Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,nodejs,supabase,sqlserver,mongodb,react,ts&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,nodejs,supabase,sqlserver,mongodb,react,ts,java,c,cpp&perline=6)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats:
-![Umar Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarfarooq876&show_icons=true&theme=dark)
+![Umar Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarfarooq876&show_icons=true&theme=dark)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq876&layout=compact&theme=dark)
+
+---
+
+### 🐍 Contribution Snake:
+![snake gif](https://github.com/umarfarooq876/umarfarooq876/blob/output/github-contribution-grid-snake.svg)
