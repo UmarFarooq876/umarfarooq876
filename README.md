@@ -1,30 +1,16 @@
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Umar+Farooq;Web+Developer+%7C+React+%26+Next.js;Always+Learning+Backend+Development)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 
----
-
-<h1 align="center">Hi, I'm Umar Farooq! Full Stack Developer!</h1>
-
-- 🔭 Currently building projects with **Next.js & React.js**  
-- 🌱 Expanding skills in **Backend Development (Node.js, Supabase, SQL, MongoDB)**  
-- 💬 Open to talk about **Web Development & Frontend Frameworks**  
+- 🔭 Currently building with **Next.js & React.js**  
+- 🌱 Learning **Backend Development (Node.js, Supabase, SQL, MongoDB)**  
+- 💬 Ask me about **Web Development & Frontend Frameworks**  
 - 📫 Reach me at: **imumar837@gmail.com**  
-
 
 ---
 
 ### 🌐 Connect with me:
-<div id="badges">
-  <a href="https://github.com/umarfarooq876">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@Umarfarooq-ytube">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://x.com/i_umarkhaan">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/umarfarooq876)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Umarfarooq-ytube)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i_umarkhaan)
 
 ---
 
@@ -41,4 +27,5 @@
 ---
 
 ### 🐍 Contribution Snake:
-![snake gif](https://raw.githubusercontent.com/umarfarooq876/umarfarooq876/output/snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/umarfarooq876/umarfarooq876/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/umarfarooq876/umarfarooq876/output/snake-dark.svg#gh-dark-mode-only)
