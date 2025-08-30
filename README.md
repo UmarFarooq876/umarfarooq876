@@ -39,5 +39,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq876&layout=compact&theme=dark)
 
 ---
+
 ### 🐍 Contribution Snake:
 ![snake gif](https://raw.githubusercontent.com/umarfarooq876/umarfarooq876/output/snake.svg)
