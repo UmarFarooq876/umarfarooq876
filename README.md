@@ -4,11 +4,11 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
+- 🔭 Currently building projects with **Next.js & React.js**  
+- 🌱 Expanding skills in **Backend Development (Node.js, Supabase, SQL, MongoDB)**  
+- 💬 Open to talk about **Web Development & Frontend Frameworks**  
+- 📫 Reach me at: **imumar837@gmail.com**  
 
-- 🔭 Working on **Web Development**  
-- 🌱 Learning **Backend Development**  
-- 💬 Ask me about **React.js**  
-- 📫 Reach me at **imumar837@gmail.com**  
 
 ---
 
@@ -39,5 +39,7 @@
 
 ---
 
-### 🐍 Contribution Snake:
-![snake gif](https://github.com/umarfarooq876/umarfarooq876/blob/output/github-contribution-grid-snake.svg)
+#### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=umarfarooq876&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
