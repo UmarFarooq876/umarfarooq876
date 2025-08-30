@@ -43,6 +43,9 @@
   <a href="https://y-ado.org/team" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Work-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/imumarkh/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 
