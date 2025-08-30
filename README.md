@@ -1,37 +1,33 @@
- <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
+<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 
-- 🔭 I’m currently working on Next JS
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about ReactJS 
-- 📫 How to reach me: imumar837@gmail.com
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
+- 🔭 Working on **Web Development**
+- 🌱 Learning **Backend Development**
+- 💬 Ask me about **React.js**
+- 📫 Reach me at **imumar837@gmail.com**
+
+---
+
+### 🌐 Connect with me:
 <div id="badges">
   <a href="https://github.com/umarfarooq876">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@Umarfarooq-ytube">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-   <a href="https://www.instagram.com/i_umarkhaan/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://www.facebook.com/imumarkh/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://x.com/i_umarkhaan">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/i_umarkhaan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+---
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+### 🛠️ Languages & Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,nodejs,supabase,sqlserver,mongodb,react,ts&perline=5)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+---
 
+### 📊 GitHub Stats:
+![Umar Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarfarooq876&show_icons=true&theme=dark)
 
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooq876&layout=compact&theme=dark)
