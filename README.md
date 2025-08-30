@@ -6,10 +6,20 @@
 <h1 align="center">Umar here, Full Stack Developer!</h1>
 
 
-- 🔭 Currently building with **Next.js & React.js**  
-- 🌱 Learning **Backend Development (Node.js, Supabase, SQL, MongoDB)**  
-- 💬 Ask me about **Web Development & Frontend Frameworks**  
-- 📫 Reach me at: **imumar837@gmail.com**  
+<div style="background-color:#1e1e1e; padding:20px; border-radius:12px; color:white; max-width:500px;">
+  <p style="margin:5px 0; transition: all 0.3s;">
+    🔭 Currently building with <strong>Next.js & React.js</strong>
+  </p>
+  <p style="margin:5px 0; transition: all 0.3s;">
+    🌱 Learning <strong>Backend Development (Node.js, Supabase, SQL, MongoDB)</strong>
+  </p>
+  <p style="margin:5px 0; transition: all 0.3s;">
+    💬 Ask me about <strong>Web Development & Frontend Frameworks</strong>
+  </p>
+  <p style="margin:5px 0; transition: all 0.3s;">
+    📫 Reach me at: <strong>imumar837@gmail.com</strong>
+  </p>
+</div>
 
 ---
 
