@@ -3,7 +3,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Umar, Full Stack Developer!</h1>
+<h1 align="center">Umar here, Full Stack Developer!</h1>
 
 
 - 🔭 Currently building with **Next.js & React.js**  
