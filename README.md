@@ -3,6 +3,7 @@
 
 ---
 
+
 <h1 align="center">Hi, I'm Umar Farooq! Full Stack Developer</h1>
 
 - 🔭 Currently building projects with **Next.js & React.js**  
