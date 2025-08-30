@@ -3,12 +3,13 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
-- 🔭 Currently building projects with **Next.js & React.js**  
-- 🌱 Expanding skills in **Backend Development (Node.js, Supabase, SQL, MongoDB)**  
-- 💬 Open to talk about **Web Development & Frontend Frameworks**  
-- 📫 Reach me at: **imumar837@gmail.com**  
+<h1 align="center">Hi 👋, I'm Umar, Full Stack Developer!</h1>
 
+
+- 🔭 Currently building with **Next.js & React.js**  
+- 🌱 Learning **Backend Development (Node.js, Supabase, SQL, MongoDB)**  
+- 💬 Ask me about **Web Development & Frontend Frameworks**  
+- 📫 Reach me at: **imumar837@gmail.com**  
 
 ---
 
