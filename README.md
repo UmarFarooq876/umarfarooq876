@@ -15,16 +15,26 @@
 
 ### 🌐 Connect with me:
 <div id="badges">
-  <a href="https://github.com/umarfarooq876">
+  <a href="https://github.com/umarfarooq876" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@Umarfarooq-ytube">
+  <a href="https://www.youtube.com/@Umarfarooq-ytube" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://x.com/i_umarkhaan">
+  <a href="https://x.com/i_umarkhaan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+  <a href="mailto:imumar837@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~019c4b0ee5733f53a1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://y-ado.org/team" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Work-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </div>
+
 
 ---
 
